@@ -1,5 +1,4 @@
 import 'package:get/get.dart';
-import 'package:restaurant_admin_app/data/localization/app_localization.dart';
 import 'package:restaurant_admin_app/data/models/meals.dart';
 import 'package:restaurant_admin_app/data/models/reviews.dart';
 import 'package:restaurant_admin_app/data/services/admin_services.dart';

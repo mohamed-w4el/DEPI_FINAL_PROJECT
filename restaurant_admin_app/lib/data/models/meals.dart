@@ -2,7 +2,6 @@
 //
 //     final meals = mealsFromJson(jsonString);
 
-import 'package:meta/meta.dart';
 import 'dart:convert';
 
 List<Meals> mealsFromJson(String str) =>

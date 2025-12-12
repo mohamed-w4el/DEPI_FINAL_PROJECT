@@ -1,5 +1,4 @@
 import 'package:get/get.dart';
-import 'package:restaurant_admin_app/data/models/meals.dart';
 
 class AppLocalization extends Translations {
   @override
